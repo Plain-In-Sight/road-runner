@@ -9,3 +9,5 @@ jobs:
           ls 
           ls ..
           ls ../..
+          pwd
+          ls ../../..
